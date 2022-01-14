@@ -6,4 +6,6 @@ The user hard codes his/her inputs into the opening section of the Python progra
 
 The program saves its output as an Excel workbook in the same directory as the program. There are several worksheets in the workbook. The main worksheet is a grid showing the user-selected stock symbols (as rows) and the calculated ratios (as columns).
 
-The program uses Python Pandas, so perhaps the title should have been Lions and Tigers and Pandas, Oh My. Disclaimer, no animals were harmed in the making of this program. Nor is the program fit for stock trading, trading advice or any other purpose. Comments, corrections and suggestions are welcome.
+The program uses Python Pandas, so perhaps the title should have been Lions and Tigers and Pandas, Oh My. 
+
+Disclaimers: no animals were harmed in the making of this program. Nor is the program fit for stock trading, trading advice or any other purpose. Comments, corrections and suggestions are welcome.
