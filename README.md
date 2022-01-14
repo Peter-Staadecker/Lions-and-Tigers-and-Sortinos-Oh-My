@@ -1,6 +1,6 @@
 # Lions-and-Tigers-and-Sortinos-Oh-My
 
-This is a Python program to calculate the beta, up-market capture, down-market capture and Sortino ratios for user-selected stocks, over a user-selected time span, using a user-selected data frequency (yearly, monthly, weekly, daily).
+This is a Python program to calculate the beta, up-market capture, down-market capture and Sortino ratios for user-selected stocks, over a user-selected time span, using a user-selected data frequency (yearly, monthly, weekly, daily). The eligible stocks are principally US-traded stocks.
 
 The user hard codes his/her inputs into the opening section of the Python program. The program takes its stock price data from https://api.tiingo.com/. The user must obtain an API key from Tiingo and hard code it into the opening section of the Python program.
 
